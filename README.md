@@ -4,7 +4,7 @@ This club aims to assist students who want to learn how to create video games wi
 
 #### I. [Syllabus]()
 
-#### II. [Preparation]()
+#### II. [Preparation](https://github.com/Nox-Erebos/Unity-Game-Development-Club/blob/main/Prep.md)
 
 #### III. [Schedule]()
 

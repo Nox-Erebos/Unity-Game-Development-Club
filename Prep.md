@@ -14,3 +14,7 @@
 5. Click **Create repository**.
 6. Open the README.md file and write a short introduction about yourself.
 7. Share your repository link with me through this email: suylising@jpa.org.kh
+
+### III. Creating a Unity Account
+1. Click this link [**Unity**](https://login.unity.com/en/sign-up).
+2. Follow the steps to create a Unity Account.

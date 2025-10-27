@@ -27,3 +27,16 @@
 
 
 **Assignments**
+
+
+#
+
+### Week 2 {2nd Day} - Building a Scene (Lising)
+
+**Topics**
+- Create a Personalized scene
+
+**Resources**
+
+
+**Assignments**

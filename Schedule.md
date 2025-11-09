@@ -24,10 +24,10 @@
 - Intro to Unity Editor
 
 **Resources**
-
+**- Null**
 
 **Assignments**
-
+**- Null**
 
 #
 
@@ -41,3 +41,19 @@
 - [**Skybox**](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353)
 
 **Assignments**
+**- Null**
+
+#
+
+### Week 3 - Diving Deeper Into Unity
+
+**Topics**
+- Adding Rigidbody
+- Lighting (Directional, spotlight, area, point) & reflection probes
+- Prefabs
+
+**Resources**
+**- Null**
+
+**Assignments**
+**- Null**

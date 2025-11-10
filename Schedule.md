@@ -53,7 +53,7 @@
 - Prefabs
 
 **Resources**
-**- Null**
+- [**IntroTo3D-Assets**](https://learn.unity.com/tutorial/project-files-prepare-for-the-unity-certified-associate-game-developer-exam-98049840928345928305983#) **Name: IntroTo3D-Assets.zip**
 
 **Assignments**
 **- Null**

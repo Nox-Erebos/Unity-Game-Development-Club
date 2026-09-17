@@ -9,14 +9,14 @@
 
 | Field | Information |
 |-------|-------------|
-| **Game Title** | Demo|
-| **Team Name** | |
-| **Project Prompt** | |
-| **Genre** | |
-| **Game Engine** | |
-| **Build Platform(s)** | |
-| **Submission Date** | |
-| **Estimated Playtime** | |
+| **Game Title** | Demo |
+| **Team Name** | Management |
+| **Project Prompt** | Create a Forest. |
+| **Genre** | Demo |
+| **Game Engine** | Unity |
+| **Build Platform(s)** | Windows |
+| **Submission Date** | 17 Sep 2026 |
+| **Estimated Playtime** | Demo |
 
 ---
 
@@ -24,18 +24,14 @@
 
 | Name | Primary Role |
 |------|--------------|
-| | |
-| | |
-| | |
+| Lising Suy | Designer |
+| Lising Suy | Developer |
 
 ---
 
 ## Overall Summary
 
-Provide a brief overview of the project and the team's overall performance.
-
-> *Example:*  
-> "Team Nova delivered a polished sci-fi action platformer featuring responsive movement, an enjoyable boss encounter, and a consistent visual style. While the project would benefit from additional gameplay variety and improved audio balancing, it demonstrates a strong understanding of Unity and effective teamwork."
+Demo
 
 ---
 
@@ -43,141 +39,71 @@ Provide a brief overview of the project and the team's overall performance.
 
 ## Gameplay (25 Points)
 
-**Score:** _____ / 25
+**Score:** 25 / 25
 
 ### Judge Feedback
 
-**Strengths**
-
-- 
-- 
-- 
-
-**Suggestions for Improvement**
-
-- 
-- 
-- 
+Demo
 
 ---
 
 ## Technical Quality (20 Points)
 
-**Score:** _____ / 20
+**Score:** 20 / 20
 
 ### Judge Feedback
 
-**Strengths**
-
-- 
-- 
-- 
-
-**Suggestions for Improvement**
-
-- 
-- 
-- 
+Demo
 
 ---
 
 ## Polish (15 Points)
 
-**Score:** _____ / 15
+**Score:** 15 / 15
 
 ### Judge Feedback
 
-**Strengths**
-
-- 
-- 
-- 
-
-**Suggestions for Improvement**
-
-- 
-- 
-- 
+Demo
 
 ---
 
 ## Visual Design (15 Points)
 
-**Score:** _____ / 15
+**Score:** 15 / 15
 
 ### Judge Feedback
 
-**Strengths**
-
-- 
-- 
-- 
-
-**Suggestions for Improvement**
-
-- 
-- 
-- 
+Demo
 
 ---
 
 ## Audio (10 Points)
 
-**Score:** _____ / 10
+**Score:** 10 / 10
 
 ### Judge Feedback
 
-**Strengths**
-
-- 
-- 
-- 
-
-**Suggestions for Improvement**
-
-- 
-- 
-- 
+Demo
 
 ---
 
 ## Creativity (10 Points)
 
-**Score:** _____ / 10
+**Score:** 10 / 10
 
 ### Judge Feedback
 
-**Strengths**
-
-- 
-- 
-- 
-
-**Suggestions for Improvement**
-
-- 
-- 
-- 
+Demo
 
 ---
 
 ## Documentation & Presentation (5 Points)
 
-**Score:** _____ / 5
+**Score:** 5 / 5
 
 ### Judge Feedback
 
-**Strengths**
-
-- 
-- 
-- 
-
-**Suggestions for Improvement**
-
-- 
-- 
-- 
+Demo
 
 ---
 
@@ -185,14 +111,14 @@ Provide a brief overview of the project and the team's overall performance.
 
 | Category | Score |
 |----------|------:|
-| Gameplay | /25 |
-| Technical Quality | /20 |
-| Polish | /15 |
-| Visual Design | /15 |
-| Audio | /10 |
-| Creativity | /10 |
-| Documentation & Presentation | /5 |
-| **Final Score** | **/100** |
+| Gameplay | 25/25 |
+| Technical Quality | 20/20 |
+| Polish | 15/15 |
+| Visual Design | 15/15 |
+| Audio | 10/10 |
+| Creativity | 10/10 |
+| Documentation & Presentation | 5/5 |
+| **Final Score** | **100/100** |
 
 ---
 
@@ -207,11 +133,11 @@ Provide a brief overview of the project and the team's overall performance.
 | **60–69** | **D** |
 | **Below 60** | **F** |
 
-**Awarded Tier:** ____________
+**Awarded Tier:** **S**
 
 ### Tier Description
 
-> *(Paste the appropriate description here based on the awarded tier.)*
+> **Outstanding quality. Highly polished, technically sound, and demonstrates exceptional craftsmanship.**
 
 ---
 
@@ -225,7 +151,7 @@ Provide a brief overview of the project and the team's overall performance.
 | ★★☆☆☆ | Playable but noticeably incomplete. |
 | ★☆☆☆☆ | Prototype or largely unfinished project. |
 
-**Awarded Rating:** ☆☆☆☆☆
+**Awarded Rating:** ★★★★★
 
 ---
 
@@ -246,7 +172,7 @@ Select any awards earned by the project.
 
 # Judge's Closing Remarks
 
-Use this section to summarize your thoughts and provide constructive feedback to the team.
+Demo
 
 Congratulations on completing your project!
 
@@ -262,6 +188,6 @@ Congratulations on completing your project!
 
 ## Evaluated By
 
-**Evaluator(s):** _______________________
+**Evaluator(s):** Management
 
-**Date:** ________________________
+**Date:** 17 Sep 2026

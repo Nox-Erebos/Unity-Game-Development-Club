@@ -1,4 +1,4 @@
-# Game Title
+# Demo
 
 > Stroll through the forest.
 

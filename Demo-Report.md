@@ -11,11 +11,11 @@
 |-------|-------------|
 | **Game Title** | Demo |
 | **Team Name** | Management |
-| **Project Prompt** | Create a Forest. |
+| **Project Prompt** | Create a Demo. |
 | **Genre** | Demo |
 | **Game Engine** | Unity |
-| **Build Platform(s)** | Windows |
-| **Submission Date** | 17 Sep 2026 |
+| **Build Platform(s)** | Windows & Mac |
+| **Submission Date** | 19 Sep 2026 |
 | **Estimated Playtime** | Demo |
 
 ---
@@ -190,4 +190,4 @@ Congratulations on completing your project!
 
 **Evaluator(s):** Management
 
-**Date:** 17 Sep 2026
+**Date:** 19 Sep 2026

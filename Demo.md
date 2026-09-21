@@ -10,9 +10,9 @@
 
 Club: Unity Game Development Club
 
-**Project Prompt: Create a Forest**
+**Project Prompt: Create a Demo**
 
-**Development Period: 1h**
+**Development Period: 3h**
 
 ### Team Members
 
@@ -31,7 +31,7 @@ Demo
 
 ### Target Platform
 
-- Windows
+- Windows & Mac
 
 ### Game Engine
 
@@ -39,7 +39,7 @@ Unity
 
 ### Size 
 
-
+1.26 GB
 
 ---
 
@@ -90,12 +90,11 @@ Demo.
 
 ### Unity Asset Store
 
-- [Fantasy Worlds: Forest FREE - Stylized Forest Environment Open World](https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-worlds-forest-free-stylized-forest-environment-open-worl-282610#reviews)
-- [Nature - Essentials](https://assetstore.unity.com/packages/audio/ambient/nature/nature-essentials-208227)
+- [3D Game Kit | 3D Sample Project](https://assetstore.unity.com/packages/templates/packs/3d-game-kit-3d-sample-project-115747#version-original)
 
 ### Club Asset Library
 
-- [Ultimate Character Controller](https://assetstore.unity.com/packages/tools/game-toolkits/ultimate-character-controller-233710)
+- 
 
 ### Other Assets
 

@@ -1,193 +1,196 @@
-# Unity Game Development Club
-# Final Project Evaluation Report
+# Game Title
+
+> A short one- or two-sentence description of your game.
 
 ---
 
-# Project Information
+## Team Information
 
-## Game Details
+**Team Name:**
 
-| Field | Information |
-|-------|-------------|
-| **Game Title** | Demo |
-| **Team Name** | Management |
-| **Project Prompt** | Create a Demo. |
-| **Genre** | Demo |
-| **Game Engine** | Unity |
-| **Build Platform(s)** | Windows & Mac |
-| **Submission Date** | 19 Sep 2026 |
-| **Estimated Playtime** | Demo |
+Club: Unity Game Development Club
 
----
+**Project Prompt:**
 
-## Team Members
+**Development Period:**
 
-| Name | Primary Role |
-|------|--------------|
-| Lising Suy | Designer |
-| Lising Suy | Developer |
+### Team Members
+
+| Name | Role(s) |
+|------|---------|
+| Student 1 | Designer |
+| Student 2 | Animator |
+| Student 3 | UI Manager |
 
 ---
 
-## Overall Summary
+## Game Overview
 
-Demo
+### Genre
+
+Example:
+Sci-Fi Action Platformer
+
+### Target Platform
+
+- Windows
+- Mac
+
+### Game Engine
+
+Unity
+
+### Size 
+
+
 
 ---
 
-# Evaluation
+## Story
 
-## Gameplay (25 Points)
-
-**Score:** 25 / 25
-
-### Judge Feedback
-
-Demo
+Provide a brief summary of your game's story.
 
 ---
 
-## Technical Quality (20 Points)
+## Gameplay
 
-**Score:** 20 / 20
+Describe how the player plays your game.
 
-### Judge Feedback
+Example:
 
-Demo
-
----
-
-## Polish (15 Points)
-
-**Score:** 15 / 15
-
-### Judge Feedback
-
-Demo
+- Explore the map.
+- Defeat enemies.
+- Solve platforming challenges.
+- Defeat the final boss.
+- Escape the facility.
 
 ---
 
-## Visual Design (15 Points)
+## Controls
 
-**Score:** 15 / 15
-
-### Judge Feedback
-
-Demo
-
----
-
-## Audio (10 Points)
-
-**Score:** 10 / 10
-
-### Judge Feedback
-
-Demo
+| Action | Key |
+|---------|-----|
+| Move | WASD |
+| Jump | Space |
+| Sprint | Left Shift |
+| Attack | Left Mouse Button |
+| Pause | Esc |
 
 ---
 
-## Creativity (10 Points)
+## Features
 
-**Score:** 10 / 10
+### Required Features
 
-### Judge Feedback
+- [ ] Main Boss      
+- [ ] Parkour
+- [ ] Weapon
+- [ ] Armor Set
+- [ ] One Map
 
-Demo
+### Optional Features
 
----
+- [ ] Double Jump
+- [ ] Dash
+- [ ] Hidden Collectibles
+- [ ] Mini-map
+- [ ] Achievement System
 
-## Documentation & Presentation (5 Points)
-
-**Score:** 5 / 5
-
-### Judge Feedback
-
-Demo
-
----
-
-# Overall Results
-
-| Category | Score |
-|----------|------:|
-| Gameplay | 25/25 |
-| Technical Quality | 20/20 |
-| Polish | 15/15 |
-| Visual Design | 15/15 |
-| Audio | 10/10 |
-| Creativity | 10/10 |
-| Documentation & Presentation | 5/5 |
-| **Final Score** | **100/100** |
+*To make a checkbox filled in use this configuration [x]*
 
 ---
 
-# Final Tier
+## Installation
 
-| Score | Tier |
-|-------:|------|
-| **95–100** | **S** |
-| **90–94** | **A** |
-| **80–89** | **B** |
-| **70–79** | **C** |
-| **60–69** | **D** |
-| **Below 60** | **F** |
-
-**Awarded Tier:** **S**
-
-### Tier Description
-
-> **Outstanding quality. Highly polished, technically sound, and demonstrates exceptional craftsmanship.**
+1. Download the game.
+2. Extract the ZIP file.
+3. Open the folder.
+4. Run the executable.
 
 ---
 
-# Completion Rating
+## Known Issues
 
-| Rating | Description |
-|--------|-------------|
-| ★★★★★ | Fully complete, polished, and all required features implemented. |
-| ★★★★☆ | Complete with only minor missing features or polish. |
-| ★★★☆☆ | Mostly complete, but several features remain unfinished. |
-| ★★☆☆☆ | Playable but noticeably incomplete. |
-| ★☆☆☆☆ | Prototype or largely unfinished project. |
+List any known bugs or limitations.
 
-**Awarded Rating:** ★★★★★
+Example:
+
+- Some animations may not play correctly.
+- Audio may briefly stutter during scene transitions.
 
 ---
 
-# Special Recognition
+## Assets Used
 
-Select any awards earned by the project.
+### Unity Asset Store
 
-- [ ] Amazing Gameplay
-- [ ] Brilliant Visual Design
-- [ ] Exceptional Technical Achievement
-- [ ] Outstanding Level Design
-- [ ] Spectacular Boss Fight
-- [ ] Most Creative
-- [ ] Incredible Teamwork
-- [ ] Staggering Polish
+- Asset Name
+- Asset Name
 
----
+### Club Asset Library
 
-# Judge's Closing Remarks
+- Asset Name
+- Asset Name
 
-Demo
+### Other Assets
 
-Congratulations on completing your project!
-
-```
-
-
-
-
-
-```
+- Fonts
+- Audio
+- Icons
 
 ---
 
-## Evaluated By
+## Credits
 
-**Evaluator(s):** Management
+### Design
 
-**Date:** 19 Sep 2026
+-
+
+### Animation
+
+-
+
+### User Interface
+
+-
+
+### Testing
+
+-
+
+Special Thanks:
+
+-
+
+---
+
+## Lessons Learned
+
+Describe what your team learned while developing this project.
+
+Examples:
+
+- Improved teamwork.
+- Learned Unity animation.
+- Learned AI programming.
+- Improved level design.
+
+---
+
+## Future Improvements
+
+If given more time, we would like to:
+
+- Add more levels.
+- Improve enemy AI.
+- Add controller support.
+- Improve visual effects.
+
+---
+
+## License
+
+This project was created for the Unity Game Development Club Final Project.
+
+Third-party assets remain the property of their original creators.
+

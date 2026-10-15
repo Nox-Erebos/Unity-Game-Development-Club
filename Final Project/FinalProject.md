@@ -9,4 +9,4 @@ Listed below are links to all files associated with UGDC's Final Project.
 
 #### [Bonus Features](https://github.com/Nox-Erebos/Unity-Game-Development-Club/blob/main/Final%20Project/BonusFeatures.md)
 #### [README Template](https://github.com/Nox-Erebos/Unity-Game-Development-Club/blob/main/Final%20Project/READMETEMPLATE.md)
-#### [Grading Criteria]()
+#### [Grading Criteria](https://github.com/Nox-Erebos/Unity-Game-Development-Club/blob/main/Final%20Project/GradingCriteria.md)

@@ -1,196 +1,193 @@
-# Game Title
-
-> A short one- or two-sentence description of your game.
-
----
-
-## Team Information
-
-**Team Name:**
-
-Club: Unity Game Development Club
-
-**Project Prompt:**
-
-**Development Period:**
-
-### Team Members
-
-| Name | Role(s) |
-|------|---------|
-| Student 1 | Designer |
-| Student 2 | Animator |
-| Student 3 | UI Manager |
+# Unity Game Development Club
+# Final Project Evaluation Report
 
 ---
 
-## Game Overview
+# Project Information
 
-### Genre
+## Game Details
 
-Example:
-Sci-Fi Action Platformer
-
-### Target Platform
-
-- Windows
-- Mac
-
-### Game Engine
-
-Unity
-
-### Size 
-
-
+| Field | Information |
+|-------|-------------|
+| **Game Title** | Demo |
+| **Team Name** | Management |
+| **Project Prompt** | Create a Demo. |
+| **Genre** | Demo |
+| **Game Engine** | Unity |
+| **Build Platform(s)** | Windows & Mac |
+| **Submission Date** | 19 Sep 2026 |
+| **Estimated Playtime** | Demo |
 
 ---
 
-## Story
+## Team Members
 
-Provide a brief summary of your game's story.
-
----
-
-## Gameplay
-
-Describe how the player plays your game.
-
-Example:
-
-- Explore the map.
-- Defeat enemies.
-- Solve platforming challenges.
-- Defeat the final boss.
-- Escape the facility.
+| Name | Primary Role |
+|------|--------------|
+| Lising Suy | Designer |
+| Lising Suy | Developer |
 
 ---
 
-## Controls
+## Overall Summary
 
-| Action | Key |
-|---------|-----|
-| Move | WASD |
-| Jump | Space |
-| Sprint | Left Shift |
-| Attack | Left Mouse Button |
-| Pause | Esc |
+Demo
 
 ---
 
-## Features
+# Evaluation
 
-### Required Features
+## Gameplay (25 Points)
 
-- [ ] Main Boss      
-- [ ] Parkour
-- [ ] Weapon
-- [ ] Armor Set
-- [ ] One Map
+**Score:** 25 / 25
 
-### Optional Features
+### Judge Feedback
 
-- [ ] Double Jump
-- [ ] Dash
-- [ ] Hidden Collectibles
-- [ ] Mini-map
-- [ ] Achievement System
-
-*To make a checkbox filled in use this configuration [x]*
+Demo
 
 ---
 
-## Installation
+## Technical Quality (20 Points)
 
-1. Download the game.
-2. Extract the ZIP file.
-3. Open the folder.
-4. Run the executable.
+**Score:** 20 / 20
 
----
+### Judge Feedback
 
-## Known Issues
-
-List any known bugs or limitations.
-
-Example:
-
-- Some animations may not play correctly.
-- Audio may briefly stutter during scene transitions.
+Demo
 
 ---
 
-## Assets Used
+## Polish (15 Points)
 
-### Unity Asset Store
+**Score:** 15 / 15
 
-- Asset Name
-- Asset Name
+### Judge Feedback
 
-### Club Asset Library
-
-- Asset Name
-- Asset Name
-
-### Other Assets
-
-- Fonts
-- Audio
-- Icons
+Demo
 
 ---
 
-## Credits
+## Visual Design (15 Points)
 
-### Design
+**Score:** 15 / 15
 
--
+### Judge Feedback
 
-### Animation
-
--
-
-### User Interface
-
--
-
-### Testing
-
--
-
-Special Thanks:
-
--
+Demo
 
 ---
 
-## Lessons Learned
+## Audio (10 Points)
 
-Describe what your team learned while developing this project.
+**Score:** 10 / 10
 
-Examples:
+### Judge Feedback
 
-- Improved teamwork.
-- Learned Unity animation.
-- Learned AI programming.
-- Improved level design.
+Demo
 
 ---
 
-## Future Improvements
+## Creativity (10 Points)
 
-If given more time, we would like to:
+**Score:** 10 / 10
 
-- Add more levels.
-- Improve enemy AI.
-- Add controller support.
-- Improve visual effects.
+### Judge Feedback
+
+Demo
 
 ---
 
-## License
+## Documentation & Presentation (5 Points)
 
-This project was created for the Unity Game Development Club Final Project.
+**Score:** 5 / 5
 
-Third-party assets remain the property of their original creators.
+### Judge Feedback
 
+Demo
+
+---
+
+# Overall Results
+
+| Category | Score |
+|----------|------:|
+| Gameplay | 25/25 |
+| Technical Quality | 20/20 |
+| Polish | 15/15 |
+| Visual Design | 15/15 |
+| Audio | 10/10 |
+| Creativity | 10/10 |
+| Documentation & Presentation | 5/5 |
+| **Final Score** | **100/100** |
+
+---
+
+# Final Tier
+
+| Score | Tier |
+|-------:|------|
+| **95–100** | **S** |
+| **90–94** | **A** |
+| **80–89** | **B** |
+| **70–79** | **C** |
+| **60–69** | **D** |
+| **Below 60** | **F** |
+
+**Awarded Tier:** **S**
+
+### Tier Description
+
+> **Outstanding quality. Highly polished, technically sound, and demonstrates exceptional craftsmanship.**
+
+---
+
+# Completion Rating
+
+| Rating | Description |
+|--------|-------------|
+| ★★★★★ | Fully complete, polished, and all required features implemented. |
+| ★★★★☆ | Complete with only minor missing features or polish. |
+| ★★★☆☆ | Mostly complete, but several features remain unfinished. |
+| ★★☆☆☆ | Playable but noticeably incomplete. |
+| ★☆☆☆☆ | Prototype or largely unfinished project. |
+
+**Awarded Rating:** ★★★★★
+
+---
+
+# Special Recognition
+
+Select any awards earned by the project.
+
+- [ ] Amazing Gameplay
+- [ ] Brilliant Visual Design
+- [ ] Exceptional Technical Achievement
+- [ ] Outstanding Level Design
+- [ ] Spectacular Boss Fight
+- [ ] Most Creative
+- [ ] Incredible Teamwork
+- [ ] Staggering Polish
+
+---
+
+# Judge's Closing Remarks
+
+Demo
+
+Congratulations on completing your project!
+
+```
+
+
+
+
+
+```
+
+---
+
+## Evaluated By
+
+**Evaluator(s):** Management
+
+**Date:** 19 Sep 2026

@@ -10,4 +10,4 @@ This club aims to assist students who want to learn how to create video games wi
 
 #### IV. [Student Repositories](https://github.com/Nox-Erebos/Unity-Game-Development-Club/blob/main/Student%20Repo.md)
 
-#### V. [README Template](https://github.com/Nox-Erebos/Unity-Game-Development-Club/blob/main/READMETEMPLATE.md)
+#### V. [Final Project](https://github.com/Nox-Erebos/Unity-Game-Development-Club/blob/main/Final%20Project/FinalProject.md)
